@@ -132,6 +132,23 @@ Predicted telecom customer churn with extensive feature engineering. Compared Lo
 [![GitHub](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/Customer-Churn-Prediction)
 
 </td>
+<td width="50%" valign="top">
+
+### ⚡ High-Performance Trading Exchange
+**C++20 · Multithreading · TCP/IP · PostgreSQL · Linux**
+
+Designed and developed a low-latency electronic trading exchange simulator with an order matching engine, TCP-based client-server communication, real-time market data processing, and risk management modules.
+
+| Feature | Details |
+|----------|----------|
+| Matching Engine | **Price-Time Priority** |
+| Architecture | **Multithreaded** |
+| Connectivity | **TCP Socket Programming** |
+| Database | **PostgreSQL** |
+
+[![GitHub](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/High-Performance-Trading-Exchange)
+
+</td>
 </tr>
 </table>
 
