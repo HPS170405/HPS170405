@@ -105,6 +105,23 @@ AI interview platform generating **50+ personalized questions** per session usin
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://ai-interview-system-avtl.vercel.app/)
 
 </td>
+<td width="50%" valign="top">
+
+### 💹 FinSight AI
+**Python · Gemini AI · Streamlit · Financial Analytics**
+
+Developed an AI-powered financial intelligence platform that analyzes company fundamentals, financial statements, market trends, and stock performance data to generate actionable investment insights using Generative AI and real-time financial datasets.
+
+| Capability | Implementation |
+|------------|----------------|
+| Financial Analysis | **Income Statement, Balance Sheet, Cash Flow** |
+| AI Engine | **Google Gemini API** |
+| Market Data | **Yahoo Finance Integration** |
+| Dashboard | **Interactive Streamlit Application** |
+
+[![GitHub](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/FinSight-Ai)
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -149,23 +166,7 @@ Engineered a production-inspired electronic trading exchange featuring an ultra-
 [![GitHub](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/High-Performance-Trading-Exchange)
 
 </td>
-<td width="50%" valign="top">
 
-### 💹 FinSight AI
-**Python · Gemini AI · Streamlit · Financial Analytics**
-
-Developed an AI-powered financial intelligence platform that analyzes company fundamentals, financial statements, market trends, and stock performance data to generate actionable investment insights using Generative AI and real-time financial datasets.
-
-| Capability | Implementation |
-|------------|----------------|
-| Financial Analysis | **Income Statement, Balance Sheet, Cash Flow** |
-| AI Engine | **Google Gemini API** |
-| Market Data | **Yahoo Finance Integration** |
-| Dashboard | **Interactive Streamlit Application** |
-
-[![GitHub](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/FinSight-Ai)
-
-</td>
 </tr>
 </table>
 
