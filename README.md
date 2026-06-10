@@ -135,18 +135,35 @@ Predicted telecom customer churn with extensive feature engineering. Compared Lo
 <td width="50%" valign="top">
 
 ### ⚡ High-Performance Trading Exchange
-**C++20 · Multithreading · TCP/IP · PostgreSQL · Linux**
+**C++20 · Multithreading · TCP/IP · PostgreSQL · React · Docker**
 
-Designed and developed a low-latency electronic trading exchange simulator with an order matching engine, TCP-based client-server communication, real-time market data processing, and risk management modules.
+Engineered a production-inspired electronic trading exchange featuring an ultra-low latency matching engine, lock-free concurrency architecture, asynchronous persistence, and real-time telemetry dashboards. Optimized for high-frequency trading workloads and capable of processing over **1.2M+ orders/second**.
 
-| Feature | Details |
-|----------|----------|
-| Matching Engine | **Price-Time Priority** |
-| Architecture | **Multithreaded** |
-| Connectivity | **TCP Socket Programming** |
-| Database | **PostgreSQL** |
+| Benchmark | Result |
+|------------|--------|
+| Matching Latency | **~0.74 μs** |
+| Throughput | **1.22M+ Orders/sec** |
+| Concurrency | **5-Thread Lock-Free Pipeline** |
+| Memory Optimization | **4.7× Faster Object Pool Allocations** |
 
 [![GitHub](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/High-Performance-Trading-Exchange)
+
+</td>
+<td width="50%" valign="top">
+
+### 💹 FinSight AI
+**Python · Gemini AI · Streamlit · Financial Analytics**
+
+Developed an AI-powered financial intelligence platform that analyzes company fundamentals, financial statements, market trends, and stock performance data to generate actionable investment insights using Generative AI and real-time financial datasets.
+
+| Capability | Implementation |
+|------------|----------------|
+| Financial Analysis | **Income Statement, Balance Sheet, Cash Flow** |
+| AI Engine | **Google Gemini API** |
+| Market Data | **Yahoo Finance Integration** |
+| Dashboard | **Interactive Streamlit Application** |
+
+[![GitHub](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/FinSight-Ai)
 
 </td>
 </tr>
