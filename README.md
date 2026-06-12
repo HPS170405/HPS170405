@@ -136,18 +136,28 @@ Interactive Power BI dashboard with KPI cards, trend charts & geospatial maps. I
 </td>
 <td width="50%" valign="top">
 
-### 📉 Customer Churn Prediction
-**XGBoost · Scikit-learn · Pandas · Matplotlib · Seaborn**
+### 📉 ChurnShield AI — Customer Churn Prediction
+> **XGBoost · Random Forest · Scikit-Learn · Pandas · FastAPI · React · Google Gemini RAG**
 
-Predicted telecom customer churn with extensive feature engineering. Compared Logistic Regression, Random Forest & XGBoost.
+An interactive ML dashboard predicting customer churn on the classic IBM Telco database and generating AI retention guides.
 
-| Metric | Score |
-|--------|-------|
-| Accuracy | **89%** |
-| F1-Score | **87%** |
+```
++-------------------+      API Requests      +-------------------+
+|  React Frontend   | ---------------------> |  FastAPI Backend  |
+|   (Vite + CSS)    | <--------------------- |  (Model & RAG)    |
++-------------------+                        +-------------------+
+```
 
-[![GitHub](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/Customer-Churn-Prediction)
+*   **Feature Engineering**: Engineered `TotalServices` (active subscriptions count) and `ChargesToTenureRatio` (unit cost density) features, yielding a **+2.1% improvement** in XGBoost F1-score and ROC-AUC.
+*   **Explainable AI**: Implemented local features explanation to detail the exact factors (e.g., payment check methods, contract types) driving individual customer risks.
+*   **High-Availability Gemini RAG**: Built a zero-dependency retrieval engine matching customer profiles with playbooks. If no API key is set, the app gracefully falls back to a rules-engine chatbot.
 
+#### 🏁 Core Metrics
+*   **XGBoost ROC-AUC**: `83.1%` (F1-Score: `60.7%`)
+*   **Random Forest ROC-AUC**: `84.2%` (F1-Score: `62.7%`)
+
+[![GitHub Repo](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/Customer-Churn-Prediction-Complete-app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-blue?style=flat-square)](https://customer-churn-prediction-complete.vercel.app/)
 </td>
 <td width="50%" valign="top">
 
