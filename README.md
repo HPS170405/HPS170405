@@ -178,6 +178,53 @@ Engineered a production-inspired electronic trading exchange featuring an ultra-
 </td>
 
 </tr>
+<tr>
+  <td width="50%" valign="top">
+
+### 📈 Quant Strategy Backtester
+
+> **Python · Pandas · NumPy · Streamlit · Plotly · Financial Analytics**
+
+A quantitative trading research platform for backtesting systematic investment strategies, analyzing portfolio performance, and evaluating risk-adjusted returns through an interactive dashboard.
+
+```text
++------------+      +------------+
+| Market Data| ---> | Strategies |
++------------+      +------------+
+                         |
+                         v
++------------+ ---> +------------+
+| Portfolio  |      | Analytics  |
++------------+      +------------+
+                         |
+                         v
+                  +------------+
+                  | Dashboard  |
+                  +------------+
+```
+
+#### 🚀 Key Features
+
+* **Strategy Backtesting**: Developed a framework for evaluating momentum, mean-reversion, and technical indicator-based trading strategies on historical market data.
+
+* **Portfolio & Risk Analytics**: Implemented trade simulation and performance evaluation using **Sharpe Ratio**, **CAGR**, **Win Rate**, and **Maximum Drawdown**.
+
+* **Interactive Dashboard**: Built a Streamlit application for strategy comparison, equity curve visualization, portfolio analytics, and market trend analysis.
+
+#### 🏁 Highlights
+
+* Quantitative Trading Research
+* Risk Management & Performance Attribution
+* Portfolio Simulation & Analytics
+* Interactive Financial Visualization
+
+
+[![GitHub Repo](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/Quant-Strategy-Backtester)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://quant-strategy-backtester-hps.streamlit.app/)
+
+
+    
+</tr>
 </table>
 
 ---
