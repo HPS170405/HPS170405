@@ -204,18 +204,12 @@ A quantitative trading research platform for backtesting systematic investment s
 
 #### 🚀 Key Features
 
-* **Strategy Backtesting**: Developed a framework for evaluating momentum, mean-reversion, and technical indicator-based trading strategies on historical market data.
+* **Strategy Backtesting**
 
-* **Portfolio & Risk Analytics**: Implemented trade simulation and performance evaluation using **Sharpe Ratio**, **CAGR**, **Win Rate**, and **Maximum Drawdown**.
+* **Portfolio & Risk Analytics** 
 
-* **Interactive Dashboard**: Built a Streamlit application for strategy comparison, equity curve visualization, portfolio analytics, and market trend analysis.
+* **Interactive Dashboard**
 
-#### 🏁 Highlights
-
-* Quantitative Trading Research
-* Risk Management & Performance Attribution
-* Portfolio Simulation & Analytics
-* Interactive Financial Visualization
 
 
 [![GitHub Repo](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/Quant-Strategy-Backtester)
