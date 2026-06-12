@@ -44,7 +44,6 @@ My work sits at the intersection of **machine learning, quantitative research, a
 ![Pandas](https://img.shields.io/badge/Pandas-0f2027?style=for-the-badge&logo=pandas&logoColor=38BDF8)
 ![NumPy](https://img.shields.io/badge/NumPy-0f2027?style=for-the-badge&logo=numpy&logoColor=38BDF8)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0f2027?style=for-the-badge&logo=scikit-learn&logoColor=F97316)
-![XGBoost](https://img.shields.io/badge/XGBoost-0f2027?style=for-the-badge&logo=xgboost&logoColor=38BDF8)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0f2027?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![Power BI](https://img.shields.io/badge/Power_BI-0f2027?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Tableau](https://img.shields.io/badge/Tableau-0f2027?style=for-the-badge&logo=tableau&logoColor=38BDF8)
