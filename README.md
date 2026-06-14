@@ -214,6 +214,29 @@ A quantitative trading research platform for backtesting systematic investment s
 
 [![GitHub Repo](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/Quant-Strategy-Backtester)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://quant-strategy-backtester-hps.streamlit.app/)
+</td>
+<td width="50%" valign="top">
+🚨 ResqNet — AI Disaster Relief & Response
+
+> **React · Node.js · Express · Socket.IO · FastAPI · MongoDB · Google Gemini · OpenStreetMap · n8n**
+
+An interactive emergency command center coordinating crisis dispatches, routing logistics around hazards, and generating AI-powered local safety guidance.
+
+* **Context-Aware RAG Guide:** Built a retrieval-augmented generation system combining Google Gemini with a localized disaster knowledge base (`protocols.json`) to provide structured flood, fire, and earthquake response guidance.
+* **Dynamic GIS & Routing:** Integrated Leaflet.js with Nominatim geocoding and OSM Overpass APIs to dynamically discover nearby hospitals, police stations, and emergency services within a 5 km radius of reported incidents.
+* **Event-Driven Workflow Orchestration:** Developed webhook-driven integrations with **n8n** to automate multi-channel emergency response workflows, including Slack alerts, Twilio volunteer notifications, and Google Sheets audit logging.
+* **Real-Time Incident Management:** Leveraged Socket.IO and FastAPI services to support live incident updates, AI-assisted recommendations, and concurrent emergency response operations.
+
+#### 🏁 Core Performance
+
+* **Geospatial Query Latency:** < 250 ms using Nominatim geocoding and cached OSM lookups.
+* **RAG Processing Overhead:** < 200 ms for context retrieval and prompt orchestration.
+* **Multi-Channel Dispatch:** Automated notifications across Slack, SMS, and logging systems through event-driven pipelines.
+
+
+[![GitHub Repo](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/ResqNet-)
+
+</td>
 
 
     
