@@ -237,6 +237,59 @@ An interactive emergency command center coordinating crisis dispatches, routing 
 [![GitHub Repo](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/ResqNet-)
 
 </td>
+<td width="50%" valign="top">
+
+### 🧠 GraphInsight AI — Document GraphRAG Platform
+> **FastAPI · LangGraph · Celery · Redis · Neo4j · React · NetworkX · Google Gemini**
+
+An enterprise-grade GraphRAG platform that transforms unstructured documents into a knowledge graph, enabling citation-backed reasoning, graph analytics, and natural language querying.
+
+```text
++-------------------+       Upload Docs       +-------------------+
+|   React Frontend  | ----------------------> | FastAPI Backend   |
+|  Graph Explorer   | <---------------------- |  GraphRAG APIs    |
++-------------------+                         +-------------------+
+                                                        |
+                                                        |
+                     +----------------------------------+----------------------------------+
+                     |                                                                     |
+                     v                                                                     v
+            +-------------------+                                           +-------------------+
+            | Gemini Extraction |                                           |  Neo4j Graph DB  |
+            | Entities & Links  |                                           | Knowledge Graph  |
+            +-------------------+                                           +-------------------+
+                     |                                                                     |
+                     +-------------------+-----------------------------+-------------------+
+                                         |                             |
+                                         v                             v
+                              +-------------------+       +-------------------+
+                              | LangGraph Agent   |       | Vector Retrieval  |
+                              | Cypher Generation |       | Hybrid RAG Search |
+                              +-------------------+       +-------------------+
+                                         |
+                                         v
+                              +-------------------+
+                              | NetworkX Analytics|
+                              | PageRank & Communities |
+                              +-------------------+
+````
+
+* **Knowledge Graph Construction**: Built an automated ingestion pipeline that extracts entities, relationships, and source citations from documents, storing them in Neo4j while resolving duplicate nodes through semantic similarity matching.
+* **Self-Correcting GraphRAG Agent**: Developed a LangGraph-powered agent that converts natural language questions into Cypher queries, featuring an iterative error-correction loop and vector-search fallback for robust hybrid retrieval.
+* **Interactive Graph Intelligence**: Integrated NetworkX analytics to compute PageRank centrality and community detection metrics, dynamically visualizing document relationships through an interactive force-directed knowledge graph.
+* **Scalable Asynchronous Processing**: Leveraged Celery and Redis to handle document ingestion, graph generation, and AI-powered analysis asynchronously, ensuring responsive user interactions for large document collections.
+
+#### 🏁 Core Components
+
+* **AI Reasoning Engine**: `Gemini 2.5 Flash`
+* **Graph Database**: `Neo4j with APOC Procedures`
+* **Workflow Orchestration**: `LangGraph State Machine`
+* **Background Processing**: `Celery + Redis`
+
+[![GitHub Repo](https://img.shields.io/badge/Code-0f2027?style=flat-square\&logo=github\&logoColor=white)](https://github.com/HPS170405/GraphInsight-AI)
+
+</td>
+```
 
 
     
