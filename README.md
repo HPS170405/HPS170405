@@ -73,7 +73,7 @@ My work sits at the intersection of **machine learning, quantitative research, a
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🏥 Healthcare Fraud Detection
 **XGBoost · Streamlit · Scikit-learn · Pandas**
@@ -90,7 +90,7 @@ ML-powered web app detecting fraudulent healthcare provider claims in real time.
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://healthcare-fraud-detection-ykangcysdfeaj4tg942yqk.streamlit.app/)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🤖 AI Mock Interview System
 **RAG · Gemini · React · Node.js · Supabase · ElevenLabs**
@@ -104,7 +104,7 @@ AI interview platform generating **50+ personalized questions** per session usin
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://ai-interview-system-avtl.vercel.app/)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 💹 FinSight AI
 **Python · Gemini AI · Streamlit · Financial Analytics**
@@ -123,7 +123,7 @@ Developed an AI-powered financial intelligence platform that analyzes company fu
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 📊 California Wildfire Dashboard
 **Power BI · Python · Pandas · NumPy**
@@ -133,7 +133,7 @@ Interactive Power BI dashboard with KPI cards, trend charts & geospatial maps. I
 [![Dashboard](https://img.shields.io/badge/View_Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNzMyYzM1ZTEtNDRlNC00MmZmLTlhMGEtYjRhZmQ5ZmZjM2FiIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 📉 ChurnShield AI — Customer Churn Prediction
 > **XGBoost · Random Forest · Scikit-Learn · Pandas · FastAPI · React · Google Gemini RAG**
@@ -158,7 +158,7 @@ An interactive ML dashboard predicting customer churn on the classic IBM Telco d
 [![GitHub Repo](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/Customer-Churn-Prediction-Complete-app)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-blue?style=flat-square)](https://customer-churn-prediction-complete.vercel.app/)
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### ⚡ High-Performance Trading Exchange
 **C++20 · Multithreading · TCP/IP · PostgreSQL · React · Docker**
@@ -178,7 +178,7 @@ Engineered a production-inspired electronic trading exchange featuring an ultra-
 
 </tr>
 <tr>
-  <td width="50%" valign="top">
+  <td width="33%" valign="top">
 
 ### 📈 Quant Strategy Backtester
 
@@ -215,7 +215,7 @@ A quantitative trading research platform for backtesting systematic investment s
 [![GitHub Repo](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/Quant-Strategy-Backtester)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://quant-strategy-backtester-hps.streamlit.app/)
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 🚨 ResqNet — AI Disaster Relief & Response
 
 > **React · Node.js · Express · Socket.IO · FastAPI · MongoDB · Google Gemini · OpenStreetMap · n8n**
@@ -237,7 +237,7 @@ An interactive emergency command center coordinating crisis dispatches, routing 
 [![GitHub Repo](https://img.shields.io/badge/Code-0f2027?style=flat-square&logo=github&logoColor=white)](https://github.com/HPS170405/ResqNet-)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🧠 GraphInsight AI — Document GraphRAG Platform
 > **FastAPI · LangGraph · Celery · Redis · Neo4j · React · NetworkX · Google Gemini**
